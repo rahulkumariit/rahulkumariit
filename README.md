@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul <img src="https://thumbs.gfycat.com/BowedExaltedDogwoodtwigborer-max-1mb.gif" width=80></h1> 
-<h3 align="center">A Mining and a Data Science Engineer</h3>
+<h3 align="center">A DevOps Engineer and a former Mining Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/rahulkumariit" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkumariit?logo=twitter&style=for-the-badge" alt="rahulkumariit" /></a> </p>
 
 - ✨ I’m currently working in **Quantbox Research** as a **DevOps Engineer**.
 
-- 🔭 Currently working on a research papers on **Implementation of AI in Mining**.
+- 🔭 Currently working on a research paper on **Implementation of AI in Mining**.
 
-- 👯 I’m looking to collaborate on **Computer vision projects**
+- 👯 I’m looking to collaborate on **DevOps projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulkumariit?tab=repositories](https://github.com/rahulkumariit?tab=repositories)
 
