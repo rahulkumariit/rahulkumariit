@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/rahulkumariit" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkumariit?logo=twitter&style=for-the-badge" alt="rahulkumariit" /></a> </p>
 
-- ✨ I’m currently working in **MECON Limited** as a **Mining Engineer**.
+- ✨ I’m currently working in **Quantbox Research** as a **DevOps Engineer**.
 
-- 🔭 Currently working on 2 research papers on **Implementation of AI in Mining**.
+- 🔭 Currently working on a research papers on **Implementation of AI in Mining**.
 
 - 👯 I’m looking to collaborate on **Computer vision projects**
 
